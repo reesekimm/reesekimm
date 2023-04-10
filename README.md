@@ -1,16 +1,33 @@
-### Hi there 👋
+### 👋 I'm a frontend developer who obsessed with crafting the details.
 
-<!--
-**reesekimm/reesekimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "tech-stack": {
+    "frontend": [
+      "javascript",
+      "tpescript",
+      "react",
+      "redux",
+      "react-query",
+      "jest",
+      "testing-library",
+      "msw",
+      "styled-components",
+      "graphql"
+    ],
+    "backend": [ "nodejs", "expressjs" ],
+    "database": [ "dynamodb", "mongodb" ],
+    "infra": [ "aws" ],
+  },
+  "interest": [
+    "ux",
+    "interactive ui",
+    "architecture",
+    "design pattern",
+    "agile"
+  ],
+  "motto": "dont't be afraid of growing slowly. be afraid of standing still",
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Reese's GitHub stats](https://github-readme-stats.vercel.app/api?username=reesekimm&count_private=true&hide=stars,contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
