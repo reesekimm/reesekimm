@@ -5,7 +5,7 @@
   "tech-stack": {
     "frontend": [
       "javascript",
-      "tpescript",
+      "typescript",
       "react",
       "redux",
       "react-query",
@@ -15,7 +15,7 @@
       "styled-components",
       "graphql"
     ],
-    "backend": [ "nodejs", "expressjs" ],
+    "backend": [ "serverless", "graphql", "expressjs" ],
     "database": [ "dynamodb", "mongodb" ],
     "infra": [ "aws" ],
   },
