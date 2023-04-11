@@ -26,7 +26,7 @@
     "design pattern",
     "agile"
   ],
-  "motto": "dont't be afraid of growing slowly. be afraid of standing still",
+  "motto": "dont't be afraid of growing slowly. be afraid of standing still.",
 }
 ```
 
